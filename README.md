@@ -14,4 +14,4 @@ A modern and responsive website designed for a premium fast food restaurant in L
 
 ## Live Demo
 
-https://raoadee-dev.github.io/Forks-n-Knives-Web-Demo/#menu
+https://raoadee-dev.github.io/Forks-n-Knives-Web-Demo/
